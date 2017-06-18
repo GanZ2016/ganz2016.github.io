@@ -8,8 +8,8 @@ permalink:        pretty
 
 # Setup
 title:            Gan
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'Homepage
+description:      'The personal webpage of <a href="https://ganz2016.github.io/" target="_blank">Gan Zhang</a>.'
 url:              https://ganz2016.github.io/
 baseurl:          /
 
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.1.0
 
 github:
   repo:           https://ganz2016.github.io/
