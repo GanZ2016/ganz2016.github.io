@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            Gan
-tagline:          'Homepage
+tagline:          'Homepage'
 description:      'The personal webpage of <a href="https://ganz2016.github.io/" target="_blank">Gan Zhang</a>.'
 url:              https://ganz2016.github.io/
 baseurl:          /
